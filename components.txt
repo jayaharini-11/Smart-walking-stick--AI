@@ -1,0 +1,11 @@
+Smart Walking Stick - Components List
+
+1. Arduino Uno or NodeMCU - 1 pc
+2. Ultrasonic Sensor (HC-SR04) - 1 pc
+3. Buzzer - 1 pc
+4. Vibration Motor - 1 pc
+5. GPS Module - 1 pc (optional, for location alerts)
+6. Battery Pack - 1 pc
+7. Jumper Wires
+8. Breadboard or Custom PCB
+9. Walking Stick Frame or Handle
