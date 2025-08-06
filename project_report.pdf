@@ -1,0 +1,24 @@
+SMART WALKING STICK – MINI PROJECT REPORT
+
+Student Name: Jayaharini  
+Department: Computer Science and Engineering  
+Academic Year: 2025  
+Project Type: Embedded Systems / IoT / Assistive Technology
+
+Overview:
+The Smart Walking Stick is an IoT-based assistive device that helps visually impaired or elderly individuals detect obstacles and navigate safely. It uses ultrasonic sensors to detect objects in front of the user and alerts them through a buzzer and vibration motor. GPS integration is included to send real-time emergency alerts with location.
+
+Objectives:
+- Enable obstacle detection in real-time
+- Alert user through vibration and sound
+- Integrate GPS for tracking and emergency notification
+- Provide a lightweight and portable solution
+
+Technologies Used:
+- Hardware: Arduino Uno /Ultrasonic Sensor, Buzzer, GPS Module
+- Software: Arduino IDE (Embedded C/C++)
+
+Conclusion:
+This project improves mobility and independence for visually impaired individuals. It can be enhanced further with IoT dashboards, mobile apps, or voice feedback systems.
+
+Submitted by: Jayaharini
